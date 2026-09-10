@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Emery (@emerycli348)
 
-<!--
-**emerycli348/emerycli348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst by day, writing Python scripts to automate boring reports by night. Based in Amsterdam.
 
-Here are some ideas to get you started:
+### What I do
+- Build practical SQL models and ad-hoc data pipelines
+- Swap slow pandas loops for DuckDB queries
+- Dig into open data (mostly urban mobility and public transit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+- **Data & Analysis:** Python, SQL, Pandas, NumPy, DuckDB
+- **Environment:** JupyterLab, VS Code, Git, PostgreSQL
+
+### Find me
+- LinkedIn: linkedin.com/in/emerycli348
+- Email: emery.cli348@proton.me
